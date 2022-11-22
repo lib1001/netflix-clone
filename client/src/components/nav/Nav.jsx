@@ -31,7 +31,7 @@ const Nav = () => {
             <SearchIcon className='icon' />
             <span>KIDS</span>
             <Notifications className='icon' />
-            <img src="https://images.pexels.com/photos/6899260/pexels-photo-6899260.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png?20201013161117" alt="" />
             <div className="profile">
             <ArrowDropDownIcon className='icon' />
             <div className="options">
